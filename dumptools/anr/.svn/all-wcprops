@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/myandroid/!svn/ver/5454/trunk/src/dumptools/anr
+END
+anr_ftp.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/myandroid/!svn/ver/5448/trunk/src/dumptools/anr/anr_ftp.py
+END
+anr_sort2.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/myandroid/!svn/ver/3735/trunk/src/dumptools/anr/anr_sort2.py
+END
+anr_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myandroid/!svn/ver/3735/trunk/src/dumptools/anr/anr_report.py
+END
+anr.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/myandroid/!svn/ver/3441/trunk/src/dumptools/anr/anr.py
+END
+anr2.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/myandroid/!svn/ver/5454/trunk/src/dumptools/anr/anr2.py
+END
+anr_mysql.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/myandroid/!svn/ver/3735/trunk/src/dumptools/anr/anr_mysql.py
+END
+anr_unzip.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/myandroid/!svn/ver/5458/trunk/src/dumptools/anr/anr_unzip.py
+END
+anr_sort.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/myandroid/!svn/ver/3382/trunk/src/dumptools/anr/anr_sort.py
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/myandroid/!svn/ver/3412/trunk/src/dumptools/native/php
+END
+native_bt.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myandroid/!svn/ver/3412/trunk/src/dumptools/native/php/native_bt.py
+END
+native_unzip.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myandroid/!svn/ver/3412/trunk/src/dumptools/native/php/native_unzip.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/myandroid/!svn/ver/3412/trunk/src/dumptools/native/php/test.py
+END
+upload.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/myandroid/!svn/ver/3412/trunk/src/dumptools/native/php/upload.html
+END
+upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/myandroid/!svn/ver/3412/trunk/src/dumptools/native/php/upload.php
+END
+native_strip.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myandroid/!svn/ver/3412/trunk/src/dumptools/native/php/native_strip.py
+END

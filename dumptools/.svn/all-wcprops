@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/myandroid/!svn/ver/5457/trunk/src/dumptools
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/myandroid/!svn/ver/3337/trunk/src/dumptools/install.sh
+END
+check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/myandroid/!svn/ver/3398/trunk/src/dumptools/check.sh
+END

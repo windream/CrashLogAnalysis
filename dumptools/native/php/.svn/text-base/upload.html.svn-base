@@ -1,0 +1,5 @@
+<form enctype="multipart/form-data" action="upload.php" method="POST">
+	Please upload dump file or dump zip file: <input name="userfile" type="file">
+	<br>
+	<input type="submit" value="Analysis">
+</form>
